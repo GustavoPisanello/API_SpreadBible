@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "sKGQLsETrXFw720286nqyjescwq+yblHRcYWy8tfyMI=",
+  "Source": "API_SpreadBible",
+  "BasePath": "_content/API_SpreadBible",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
