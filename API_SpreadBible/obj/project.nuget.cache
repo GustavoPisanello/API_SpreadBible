@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "thCFnzNj9FipPPqtZGqSxBb8+gfSq7AkJBFP6SwX57p9R3CZ7SGU8CsSQsIxxjlSlWfwlrB3SJhtYxES0DgwLw==",
+  "dgSpecHash": "FvxPvoPLNX4RTJ2tN0mI7QfHSgKYGvn2q2U61aL1p3dl8xh9UWr4+4ACDRc3ElcblCu35bT7qJAfvEzIVBk40A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gusta\\source\\repos\\SpreadBible_Api\\API_SpreadBible\\API_SpreadBible\\API_SpreadBible.csproj",
+  "projectFilePath": "C:\\Users\\gusta\\Desktop\\API-SpreadBible\\API_SpreadBible\\API_SpreadBible\\API_SpreadBible.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
     "C:\\Users\\gusta\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.10\\microsoft.entityframeworkcore.abstractions.7.0.10.nupkg.sha512",

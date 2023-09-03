@@ -1,4 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace API_SpreadBible.Models
 {
@@ -11,4 +12,5 @@ namespace API_SpreadBible.Models
         public string ChurchUF { get; set; }
         public string ChurchTel { get; set; }
     }
+    
 }

@@ -11,6 +11,7 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddDbContext<ChurchDBContext>(options => options.UseInMemoryDatabase("ChurchesDb"));
+builder.Services.AddDbContext<ChurchDBContext>(options => options.UseInMemoryDatabase("UsersDb"));
 
 var app = builder.Build();
 

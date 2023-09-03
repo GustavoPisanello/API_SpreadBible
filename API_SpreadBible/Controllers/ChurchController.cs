@@ -23,6 +23,7 @@ namespace API_SpreadBible.Controllers
             
         }
 
+        // Método que recupera uma Igreja cadastrada pelo ID
         [HttpGet]
         [Route("{id:guid}")]
         public async Task<IActionResult> GetChurch([FromRoute] Guid id)
@@ -33,7 +34,7 @@ namespace API_SpreadBible.Controllers
             }
             return NotFound();
         }
-        // Método queadiciona novas Igrejas Cadastradas
+        // Método que adiciona novas Igrejas 
         [HttpPost]
         public async Task<IActionResult> AddChurch(AddChurchRequest addChurchRequest)
         {
@@ -53,6 +54,7 @@ namespace API_SpreadBible.Controllers
             return Ok(newChurch);
         }
 
+        // Método que atualiza as Igrejas 
         [HttpPut]
         [Route("{id:guid}")]
         public async Task<IActionResult> UpdateChurch([FromRoute] Guid id, UpdateChurchRequest updateChurchRequest)
@@ -74,6 +76,7 @@ namespace API_SpreadBible.Controllers
             return NotFound();
         }
 
+        // Método que deleta as Igrejas 
         [HttpDelete]
         [Route("{id:guid}")]
         public async Task<IActionResult> DeleteChurch([FromRoute] Guid id)

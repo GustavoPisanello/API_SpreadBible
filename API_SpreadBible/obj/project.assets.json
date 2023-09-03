@@ -1112,11 +1112,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gusta\\source\\repos\\SpreadBible_Api\\API_SpreadBible\\API_SpreadBible\\API_SpreadBible.csproj",
+      "projectUniqueName": "C:\\Users\\gusta\\Desktop\\API-SpreadBible\\API_SpreadBible\\API_SpreadBible\\API_SpreadBible.csproj",
       "projectName": "API_SpreadBible",
-      "projectPath": "C:\\Users\\gusta\\source\\repos\\SpreadBible_Api\\API_SpreadBible\\API_SpreadBible\\API_SpreadBible.csproj",
+      "projectPath": "C:\\Users\\gusta\\Desktop\\API-SpreadBible\\API_SpreadBible\\API_SpreadBible\\API_SpreadBible.csproj",
       "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gusta\\source\\repos\\SpreadBible_Api\\API_SpreadBible\\API_SpreadBible\\obj\\",
+      "outputPath": "C:\\Users\\gusta\\Desktop\\API-SpreadBible\\API_SpreadBible\\API_SpreadBible\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
