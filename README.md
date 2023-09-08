@@ -5,7 +5,7 @@ API desenvolvida para o app SpreadBible. Por Gustavo Laur Pisanello e Alexandre 
 <h2>Manipulação das Igrejas</h1>
 
 <h3>Método AddChurch()</h3>
-- Testando método AddChurch() (Método que adiciona uma igreja)
+- Testando método AddChurch() (Método que adiciona uma igreja) <br>
 
 ![image](https://github.com/GustavoPisanello/API_SpreadBible/assets/99992149/85b46aa1-cb49-469e-8783-984e26c09c81)
 
