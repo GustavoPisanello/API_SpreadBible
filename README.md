@@ -1,9 +1,8 @@
-API criada por Gustavo Laur Pisanello e Alexandre Mezack de Lima
-API desenvolvida para o aplicativo SpreadBible
+API desenvolvida para o app SpreadBible. Por Gustavo Laur Pisanello e Alexandre Mezack de Lima
 
--- Funcionamento e explicações 
+<h1>Funcionamento e explicações</h1> 
 
-<h1>Mnipulação das Igrejas</h1>
+<h2>Manipulação das Igrejas</h1>
 
 <h3>Método AddChurch()</h3>
 ![image](https://github.com/GustavoPisanello/API_SpreadBible/assets/99992149/b785fb53-2a23-4a40-9b95-9b92ad70c00e)
