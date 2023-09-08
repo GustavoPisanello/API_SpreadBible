@@ -37,7 +37,7 @@ Resultado Positivo (código 200)
 
 
 
-<h2>Manipulação dos Usuários/h1>
+<h2>Manipulação dos Usuários</h2>
 
 <h3>Método AddUser()</h3>
 - Testando método AddUser() que adiciona um usuário<br>
