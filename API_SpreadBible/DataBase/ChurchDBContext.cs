@@ -12,5 +12,6 @@ namespace API_SpreadBible.DataBase
 
         public DbSet<Church> Churches { get; set; }
          
+        public DbSet<User> Users { get; set; }
     }
 }

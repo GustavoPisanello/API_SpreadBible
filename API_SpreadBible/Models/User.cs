@@ -11,7 +11,6 @@ namespace API_SpreadBible.Models
 
         public string UserPassword {get;set;}
 
-        [ForeignKey("ChurchId")]
        public Guid FavChurch { get; set;} 
     }
 
