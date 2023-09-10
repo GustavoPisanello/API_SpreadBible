@@ -182,7 +182,7 @@ Link do Vídeo Demonstrativo: https://drive.google.com/drive/folders/1S1dORh9bCk
 <img src="Diagramas e Descrições/MER, DER e Diagrama de Classes - API Interna/DER.jpeg" height="400px">
 
 ## Diagrama de Classes
-<img src="Diagramas e Descrições/MER, DER e Diagrama de Classes - API Interna/Diagrama de Classe.jpeg" height="400px">
+![Diagrama de Classe (1)](https://github.com/GustavoPisanello/API_SpreadBible/assets/101807287/d0d69c1b-9eb6-46da-8f10-d5a5aecc9d47)
 
 
 
