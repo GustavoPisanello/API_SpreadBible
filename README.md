@@ -72,7 +72,6 @@ Resultado Positivo (código 200)
 
 ![image](https://github.com/GustavoPisanello/API_SpreadBible/assets/99992149/0abcd556-30ab-42c5-8c0d-863fb0ad0cbd)
 
-Dados da API escolhida:
 
 <p align="center">
 <img align="center" src = "https://user-images.githubusercontent.com/99992149/230115916-9f3e7ad6-e2f1-47cd-84b8-25514d7d6a2a.png" width="100px" heigth="100px"/>
