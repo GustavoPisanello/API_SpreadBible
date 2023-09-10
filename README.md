@@ -176,7 +176,7 @@ Link do Vídeo Demonstrativo: https://drive.google.com/drive/folders/1S1dORh9bCk
 # Diagramas:
 
 ## MER
-![MER](https://github.com/GustavoPisanello/API_SpreadBible/assets/101807287/c869b3ed-9f9a-4843-bf36-a0b424692681)
+![MER](https://github.com/GustavoPisanello/API_SpreadBible/assets/101807287/0a6fbdce-9bdb-44f4-8998-de5db1dbb828)
 
 ## DER
 ![DER](https://github.com/GustavoPisanello/API_SpreadBible/assets/101807287/64af7c4d-ddb7-4668-aec3-587a6e21b016)
