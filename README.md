@@ -175,10 +175,10 @@ Link do Vídeo Demonstrativo: https://drive.google.com/drive/folders/1S1dORh9bCk
 
 # Diagramas:
 
-## MER
+## DER
 ![MER](https://github.com/GustavoPisanello/API_SpreadBible/assets/101807287/0a6fbdce-9bdb-44f4-8998-de5db1dbb828)
 
-## DER
+## MER
 ![DER](https://github.com/GustavoPisanello/API_SpreadBible/assets/101807287/64af7c4d-ddb7-4668-aec3-587a6e21b016)
 
 ## Diagrama de Classe
