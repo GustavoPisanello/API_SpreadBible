@@ -176,7 +176,7 @@ Link do Vídeo Demonstrativo: https://drive.google.com/drive/folders/1S1dORh9bCk
 # Diagramas:
 
 ## MER
-<img src="Diagramas e Descrições/MER, DER e Diagrama de Classes - API Interna/MER.png" height="300px">
+![MER](https://github.com/GustavoPisanello/API_SpreadBible/assets/101807287/c869b3ed-9f9a-4843-bf36-a0b424692681)
 
 ## DER
 ![DER](https://github.com/GustavoPisanello/API_SpreadBible/assets/101807287/64af7c4d-ddb7-4668-aec3-587a6e21b016)
