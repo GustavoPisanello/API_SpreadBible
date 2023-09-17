@@ -10,8 +10,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
-builder.Services.AddDbContext<ChurchDBContext>(options => options.UseInMemoryDatabase("ChurchesDb"));
-builder.Services.AddDbContext<ChurchDBContext>(options => options.UseInMemoryDatabase("UsersDb"));
+//builder.Services.AddDbContext<ChurchDBContext>(options => options.UseInMemoryDatabase("ChurchesDb"));
+
+builder.Services.AddDbContext<ChurchDBContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("API_SpreadBibleConnectionString")));
 
 var app = builder.Build();
 

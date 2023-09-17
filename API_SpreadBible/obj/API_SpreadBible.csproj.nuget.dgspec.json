@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gusta\\Desktop\\API-SpreadBible\\API_SpreadBible\\API_SpreadBible\\API_SpreadBible.csproj": {}
+    "C:\\Users\\gusta\\Desktop\\apiCerta\\API_SpreadBible\\API_SpreadBible.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gusta\\Desktop\\API-SpreadBible\\API_SpreadBible\\API_SpreadBible\\API_SpreadBible.csproj": {
+    "C:\\Users\\gusta\\Desktop\\apiCerta\\API_SpreadBible\\API_SpreadBible.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\API-SpreadBible\\API_SpreadBible\\API_SpreadBible\\API_SpreadBible.csproj",
+        "projectUniqueName": "C:\\Users\\gusta\\Desktop\\apiCerta\\API_SpreadBible\\API_SpreadBible.csproj",
         "projectName": "API_SpreadBible",
-        "projectPath": "C:\\Users\\gusta\\Desktop\\API-SpreadBible\\API_SpreadBible\\API_SpreadBible\\API_SpreadBible.csproj",
+        "projectPath": "C:\\Users\\gusta\\Desktop\\apiCerta\\API_SpreadBible\\API_SpreadBible.csproj",
         "packagesPath": "C:\\Users\\gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gusta\\Desktop\\API-SpreadBible\\API_SpreadBible\\API_SpreadBible\\obj\\",
+        "outputPath": "C:\\Users\\gusta\\Desktop\\apiCerta\\API_SpreadBible\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,16 @@
             "Microsoft.EntityFrameworkCore.InMemory": {
               "target": "Package",
               "version": "[7.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.11, )"
             },
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
