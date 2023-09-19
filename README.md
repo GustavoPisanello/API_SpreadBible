@@ -77,6 +77,9 @@ Resultado Positivo (código 200)
 <img align="center" src = "https://user-images.githubusercontent.com/99992149/230115916-9f3e7ad6-e2f1-47cd-84b8-25514d7d6a2a.png" width="100px" heigth="100px"/>
 </p>
 
+Tela em que a API será aplicada:
+![image](https://github.com/GustavoPisanello/API_SpreadBible/assets/99992149/5878c201-10f4-49b0-a7be-b392a1922305)
+
 
 # Diagramas:
 
